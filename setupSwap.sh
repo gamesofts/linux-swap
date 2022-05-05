@@ -165,3 +165,4 @@ function setupSwapMain() {
 
     echo "Setup swap complete! Check output to confirm everything is good."
 }
+setupSwapMain
